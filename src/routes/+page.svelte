@@ -98,7 +98,7 @@
 <div class="bottom">
 	<div class="spacer">
 		<div class="personal-links flex-row">
-			<a class="icon twitter" title="Twitter" href="https://twitter.com/probablykasper">
+			<a class="icon twitter" title="Twitter" href="https://twitter.com/kasper9n">
 				<img src="/logos/personal/twitter.png" alt="Twitter" />
 			</a>
 			<div class="icon discord" title="Discord">
@@ -106,19 +106,19 @@
 					<input readonly class="popup-input" value="KH | Shrive &amp; Lacuna#6425" />
 				</div>
 			</div>
-			<a class="icon facebook" title="Facebook" href="https://facebook.com/probablykasper">
+			<a class="icon facebook" title="Facebook" href="https://facebook.com/kasper9n">
 				<img src="/logos/personal/facebook.png" alt="Facebook" />
 			</a>
-			<a class="icon youtube" title="YouTube" href="https://youtube.com/probablykasper">
+			<a class="icon youtube" title="YouTube" href="https://youtube.com/kasper9n">
 				<img src="/logos/personal/youtube.png" alt="YouTube" />
 			</a>
-			<a class="icon soundcloud" title="SoundCloud" href="https://soundcloud.com/probablykasper">
+			<a class="icon soundcloud" title="SoundCloud" href="https://soundcloud.com/kasper9n">
 				<img src="/logos/personal/soundcloud.png" alt="SoundCloud" />
 			</a>
-			<a class="icon github" title="GitHub" href="https://github.com/probablykasper">
+			<a class="icon github" title="GitHub" href="https://github.com/kasper9n">
 				<img src="/logos/personal/github.png" alt="GitHub" />
 			</a>
-			<a class="icon instagram" title="Instagram" href="https://instagram.com/probablykasper">
+			<a class="icon instagram" title="Instagram" href="https://instagram.com/kasper9n">
 				<img src="/logos/personal/instagram.png" alt="Instagram" />
 			</a>
 			<div class="icon email" title="Email">
@@ -216,11 +216,11 @@
 		<header class="flex-row">
 			<div class="text l">
 				<p class="title">
-					<a href="https://github.com/probablykasper">Dev</a>
+					<a href="https://github.com/kasper9n">Dev</a>
 				</p>
 				<p class="description">HTML5, Sass, JS, jQuery, PHP, MySQL. It's a start.</p>
 			</div>
-			<a href="https://github.com/probablykasper">
+			<a href="https://github.com/kasper9n">
 				<img src="/logos/project/github.png" alt="GitHub logo" />
 			</a>
 		</header>
@@ -258,12 +258,12 @@
 
 	<section class="video adjust-height">
 		<header class="flex-row">
-			<a href="https://www.youtube.com/probablykasper">
+			<a href="https://www.youtube.com/kasper9n">
 				<img src="/logos/project/youtube.png" alt="YouTube logo" />
 			</a>
 			<div class="text r">
 				<p class="title">
-					<a href="https://www.youtube.com/probablykasper">Video</a>
+					<a href="https://www.youtube.com/kasper9n">Video</a>
 				</p>
 				<p class="description">
 					I'm experienced with After Effects and Final Cut. My personal YouTube channel has audio
